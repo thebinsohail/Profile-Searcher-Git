@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white;
+}
+.navbar-brand>a{
+    text-decoration: none;
+    color: #fff;
+    font-size:25px;
+}
+
+.form-group{
+    margin-top:100px;
+  
+}
+
+
+.btn{
+    font-weight:lighter;
+    align: center;
+    margin-top:180px;
+}
+.form-control{
+    margin-top: 50px;
+    padding-top:30px;
+    padding-bottom:30px;    
+    position:absolute;
+    width:50%;
+    left: 30%;
+}
+.details{
+    margin-top:80px;
+}
+#name{
+    font-size:35px;
+    padding-bottom:50px;
+}
+#user-image{
+    border-radius:80%;
+}
+#bio{
+    font-weight: lighter;
+    font-size: 25px;
+    margin-top:50px;
+}
+#repos{
+    font-weight: lighter;
+    font-size: 30px;
+    margin-top:30px;
+}
+#followers{
+    margin-top:30px;
+    font-size: 30px;
+    font-weight:lighter;
+}
+#visit{
+    margin-top:30px;
+}
+footer{
+    margin-top:50px;
+    background-color:#eee;
+    padding:50px 0 50px 0;
+}
