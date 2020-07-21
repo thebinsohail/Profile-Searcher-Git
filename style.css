@@ -36,27 +36,36 @@ body{
 #name{
     font-size:35px;
     padding-bottom:50px;
+    text-transform: uppercase;
 }
 #user-image{
     border-radius:80%;
 }
 #bio{
-    font-weight: lighter;
+    font-weight:500;
     font-size: 25px;
     margin-top:50px;
+    text-transform: uppercase;
 }
 #repos{
     font-weight: lighter;
     font-size: 30px;
     margin-top:30px;
+    text-transform: uppercase;
 }
 #followers{
     margin-top:30px;
     font-size: 30px;
     font-weight:lighter;
+    text-transform: uppercase;
 }
 #visit{
     margin-top:30px;
+}
+#visithead{
+    margin-top:30px;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 footer{
     margin-top:50px;

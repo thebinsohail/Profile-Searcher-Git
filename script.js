@@ -14,6 +14,7 @@ function find() {
         document.getElementById('bio').innerHTML=data.bio;
         document.getElementById('repos').innerHTML=repository+data.public_repos;
         document.getElementById('followers').innerHTML=followers+data.followers;
+        document.getElementById('visithead').innerHTML="Visit Profile Below";
         document.getElementById('link').innerHTML="https://github.com/"+user;
       });
 
